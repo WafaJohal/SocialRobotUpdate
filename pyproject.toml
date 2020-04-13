@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "SocialRobotUpdate"
+version = "0.1.0"
+description = ""
+authors = ["Wafa Johal <wafajohal@users.noreply.github.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+pandas = "^1.0.3"
+pyzotero = "^1.4.15"
+habanero = "^0.7.2"
+matplotlib = "^3.2.1"
+seaborn = "^0.10.0"
+scholar = "^1.0.6"
+jupyterlab = "^2.1.0"
+xlrd = "^1.2.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
