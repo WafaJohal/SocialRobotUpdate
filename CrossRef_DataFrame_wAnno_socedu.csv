@@ -1,0 +1,215 @@
+﻿DOI;Country;Robot/s used (?);Adult vs Children;wtype;Role (Pr = presenter, TA = teaching assistant, Te = teacher, Pe = peer, Tu = tutor);Curriculum;nb students per robot;Communicative gestures vs functional actions;Autonomy;Contain Retention component?;Material;Included
+10.21125/inted.2020.1926;Greece;Nao;Ch;2020;Pe;handwriting;1;CO+FU;Scripted;No;Tablet;Yes
+10.3389/frobt.2020.00015;Spain;Haru;Ch;2020;Tu;"proble; solving";1;CO;WOZ;No;tangibles;Yes
+10.3389/frobt.2019.00148;Israel;Nao;Ad;2020;Te;HCI;3;CO;Scripted;No;tablet;Yes
+10.1145/3319502.3374822;USA;Tega;Ch;2020;Tu;Vocabulary;1;CO;Scripted;No;Tablet;Yes
+10.1145/3319502.3374803;Netherlands;Zeno;Ch;2020;Tu;Problem Solving;1;CO;Scripted;No;Tablet+tangibles;Yes
+10.1145/3319502.3374828;Netherlands;Nao;Ch;2020;Tu;L2;1;CO;Scripted;No;Tablet;Yes
+10.20965/jaciii.2020.p0101;Japan;Sota;Ad;2020;Tu;Math;1;CO;scripted;No;PC+tangible;Yes
+10.1080/10494820.2019.1710542;;;;2020;;;;;;;;No
+10.1007/s12369-020-00635-y;Sweden;Furhat;Ad;2020;Pe/Tu;L2;2;CO;semi-autonomous WOZ;;;Yes
+10.1145/3377290.3377304;;;;2020;;;;;;;;No
+10.1111/bjet.12848;Italia;MecWilly and Bluebot;Ch;2020;Tu;Way-finding;1 or 2;CO;scripted;No;;Yes
+10.1145/3319502.3374787;Netherlands;SocibotMini;Ch;2020;Tu;Music;1;CO;WoZ;No;;Yes
+10.1145/3319502.3374813;Kazakhstan;Nao;Ch;2020;Pe;handwriting;1;CO+FU;semi-autonomous;No;Tablet;Yes
+10.1145/3319502.3374826;Netherlands;Nao;Ch;2020;Pe/Tu;storytelling;1;CO;scripted;No;;Yes
+10.1145/3319502.3374815;Netherlands;Nao;Ch;2020;Tu;L2;1;CO;scripted;Yes;Tablet;Yes
+10.1007/s10643-019-00997-7;;;;2020;;;;;;;;No
+10.1016/j.compedu.2020.103836;USA;Tega;Ch;2020;Pe/Tu;vocabulary;1;CO;autonomous;Yes;Tablet;Yes
+10.1016/j.ijcci.2017.04.001;USA;DragonBot;Ch;2017;Tu;vocabulary;1;CO;Woz;No;Tablet;Yes
+10.1145/2909824.3020242;Germany;Nao;Ad;2017;Tu;mulitple;1;CO;Woz;No;PC;Yes
+10.1109/humanoids.2017.8246956;;;;2017;;;;;;;;No
+10.1145/3029798.3036651;;;;2017;;;;;;;;No
+10.1145/3029798.3034818;;;;2017;;;;;;;;No
+10.15207/jkcs.2017.8.3.177;;;;2017;;;;;;;;No
+10.1007/978-3-319-70022-9_25;Iran;Nao;Ch;2017;Tu;L2;1;CO;Scripted;No;;Yes
+10.1145/3029798.3038433;;;;2017;;;;;;;;No
+10.1007/s12369-017-0430-y;UK;Nao;Ch;2017;Tu;Geography;1;CO+deitic;autonomous;No;Tablet;Yes
+10.1109/companion.2017.8287073;Germany;Nao;Ch;2017;Tu;L2;1;CO;scripted;No;Tablet;Yes
+10.1145/2909824.3020222;Germany;Nao;Ad;2017;Tu;L2;1;CO;autonomous;No;Tablet;Yes
+10.1109/roman.2017.8172341;Netherlands;Nao;Ch;2017;Pr;health;1;CO;scipted;No;screen;Yes
+10.1145/3029798.3034814;;;;2017;;;;;;;;No
+10.1145/3029798.3038331;;;;2017;;;;;;;;No
+10.3389/fnhum.2017.00073;;;;2017;;;;;;;;No
+10.1007/978-3-319-70022-9_7;;Emys+Nao;;2017;;;;;;;;No
+10.1007/s10514-016-9598-5;Turkey;Nao;Ad;2017;Tu;Physical Exercise;1;CO+FU;autonomous;No;;Yes
+10.1007/978-3-319-42975-5_23;Netherlands;Nao;Ch;2017;Pe;Communication;1;CO;WOZ;No;PC;Yes
+10.1299/mel.16-00471;Japan;Repiro;Ch;2017;Ot ('disabled');caring mindset;6-13-14;CO+FU;WOZ;No;;Yes
+10.1007/s12369-016-0378-3;UK;Nao;Ad;2017;Tu;literacy / understanding;;CO;scripted;No;;Yes
+10.1016/j.cogsys.2016.08.003;Netherlands;Nao;Ch;2017;Tu/Pe?;heatlth;1;CO;WOZ;No;PC;Yes
+10.1145/2909824.3020209;USA;Nao;Ch;2017;Tu;math;1;CO;autonomous;No;Tablet;Yes
+10.1145/2909824.3020213;USA/Israel?;Tega;Ch;2017;Pe;problem solving;1;CO;autonomous;No;Tablet;Yes
+10.3389/fict.2017.00006;UK;Nao;Ch;2017;Tu;math;1;CO;scripted;No;tablet;Yes
+10.1109/iros.2014.6942919;The Netherlands;Nao;Ch;2014;Te;robotics;16-18;CO;scripted;No;screen;Yes
+10.1145/2559636.2559668;USA;Wakamaru;Ad;2014;Pr;presentation skills;1;CO;scripted;No;screen;Yes
+10.1145/2559636.2559671;USA;Keepon;Ad;2014;Tu;problem solving;1;CO;scripted;No;PC;Yes
+10.1007/978-3-319-11973-1_30;Italy;nao;Ad;2014;Te;health;1;CO;scripted;No;screen;Yes
+10.1145/2559636.2559654;Japan;Skype vs Skype + adapted Robotive R3;Ch;2014;Ot;L2;1;CO;teleoperated;No;PC;Yes
+10.1109/humanoids.2014.7041511;Sweden;Nao;Ch;2014;;problem solving;1;CO+dietic;WOZ;No;tangibles;Yes
+10.1145/2559636.2559821;UK/Belgium;Nao;Ch;2014;Tu;dance;;;;;;No
+10.1016/j.robot.2014.03.005;UK/Italy;Nao;Ch;2014;Tu;dance;1;CO+FU;WOZ;No;;Yes
+10.1145/2622615;;;;2014;;;;;;;;No
+10.1007/s12369-014-0227-1;Portugal;iCat;Ch;2014;Pe;;;;;;;No
+10.1142/s0219843614500030;Turkey;Nao/Robovie;Ad/Te;2014;Tu;sign language;1 to 5;CO+FU;WOZ;No;cards;Yes
+10.1016/j.compedu.2013.07.043;Israel;Nao;Ch;2014;TA;storytelling;5;CO;Woz+scrpted;;screen;Yes
+10.1145/2559636.2559667;Japan;ATR Robovie R2;Ad;2014;Tu/Te;biology;1;CO;WOZ;No;;Yes
+10.1007/978-3-319-11973-1_19;UK;Nao torso;Ch;2014;Tu;geography;1;CO+D;scripted;No;tablet;Yes
+10.1109/icrom.2014.6990994;Iran;Nao;Ch;2014;Te;L2;15;CO;scripted;No;;Yes
+10.1142/s0219843614500224;Iran;Nao;Ch;2014;Te;L2;15;CO;scripted;No;;Yes
+10.5898/jhri.2.2.fasola;USA;Bandit;Ad;2013;Tu;physical exercise;1;CO+FU;ścripted;No;;Yes
+10.1007/s12369-013-0192-0;South Korea;Engkey;Ch;2013;Te;;;;;;;No
+10.1007/978-3-319-02675-6_51;;Nao;;2013;;;;;;;;No
+10.5898/jhri.2.2.huang;;;;2013;;;;;;;;No
+;;;;2013;;;;;;;;No
+10.1109/humanoids.2013.7029974;USA;Darwin;Ch;2013;Tu;Math;1;CO;scripted;No;Tablet;Yes
+10.1109/smc.2013.744;USA;Darwin;Ad;2013;Tu;Math;1;CO;scripted;No;Tablet;Yes
+;;;;2012;;;;;;;;No
+10.1109/roman.2012.6343836;Netherlands;Nao;Ch;2012;Tu;Health;1;CO;WOZ;No;screen;Yes
+10.5898/jhri.1.1.tanaka;Japan;Nao;Ch;2012;Pe;L2;1;CO;WOZ;No;;Yes
+10.1145/2207676.2207679;USA;Wakamaru;Ad;2012;Te;Culture;1;CO+FU;scripted;No;screen;Yes
+10.1007/s12369-012-0142-2;Turkey;Nao H25;Ad;2012;Tu;sign language;1;CO+FU;scripted;No;screen;Yes
+10.1109/iros.2012.6385645;Israel;Nao;Ch;2012;Tu;visuo-motor skills/geometry;3;CO;scripted;No;;Yes
+10.1145/2157689.2157809;Japan;Robovie-R3/ Lego Mindstorm;Ch;2012;TA;robotics;4;CO;WOZ;No;screen;Yes
+10.1007/978-3-642-34103-8_10;;;;2012;;;;;;;;No
+10.1007/978-3-642-34103-8_41;Denmark;Geminoid-DK;Ad;2012;Pr;HCI;150;CO;T;No;Laptop;Yes
+10.1109/hri.2019.8673077;Netherlands;Nao;Ch;2019;Tu;L2;1;CO;scripted+WOZ;yes;tablet;Yes
+10.3991/ijet.v14i02.9212;Japan;Nao;Ch;2019;Pe/Tu;L2;1;CO;WOZ;yes;;Yes
+10.34190/gbl.19.138;Sweden;Pepper;Ch;2019;Pe;Math;20;CO;scripted+WOZ;No;tablet;Yes
+;;;;2019;;;;;;;;No
+10.1109/mra.2018.2868865;USA;IRI;Ad;2019;Tu;vocational;1;CO+D;autonomous;yes;tangible;Yes
+10.1007/978-3-030-20954-4_11;;;;2019;;;;;;;;No
+10.1145/3213768;USA;Nao;Ch;2019;Tu;Math;1;CO;scuipted;No;tablet;Yes
+10.1145/3345508;Netherlands;Zeno;Ch;2019;Tu;Physics;1;CO;WOZ;;tablet;Yes
+10.1109/ro-man46459.2019.8956370;USA;SPRITE;Ad;2019;Tu;Math;1;CO;scripted;No;button+computer;Yes
+10.1111/jcal.12358;Netherlands;WittyWorxk;Ch;2019;Tu;problem solving;1;CO;WOZ;No;tangible;Yes
+10.1007/s10846-018-0860-2;Iran;RASA;;2019;;;;;;;;No
+10.1007/s12369-019-00589-w;Portugal;Nao;Ch;2019;Pe;handwriting;1;CO;autonomous;No;tablet;Yes
+10.1080/01443410.2019.1684450;Netherlands;WittyWorxk;Ch;2019;Tu;problem solving;1;CO;WOZ;No;tangible;Yes
+10.1145/3369457.3369494;;;;2019;;;;;;;;No
+10.1109/iros40897.2019.8967825;Japan;Sota;Ch;2019;TA;any;1;CO;scripted;No;;Yes
+10.20368/1971-8829/1592;Bulgaria;;;2019;;;;;;;;No
+10.20368/1971-8829/1636;Italy;Nao;Ch;2019;Tu;culture;1;CO;scripted;No;;Yes
+10.1007/978-3-030-23204-7_20;USA;Nao;Ch;2019;Tu;Math;1;CO;autonomous;No;tablet;Yes
+10.1145/3325480.3325499;USA;Jibo;Ch;2019;Pe;creativity;1;CO;autonomous;No;tablet;Yes
+10.1109/ro-man46459.2019.8956309;Finland;InMoov;Ch;2019;Tu;Sign language;5;CO+FU;WOZ;No;;Yes
+10.1007/978-3-030-23807-0_25;UK;instruMentor;Ad;2019;Te;Music;1;CO+FU;autonomous;No;tablet;Yes
+10.3389/frobt.2019.00081;USA;;;2019;;storytelling;;;;;;No
+;;;;2019;;;;;;;;No
+10.1177/1059712319844182;Pakistan;Nao;Ch;2019;Pe/TU;vocabulary;1;CO;WOZ+scripted;No;tablet;Yes
+10.1111/jcal.12325;Japan;CommU;Ad;2019;Tu;L2;1;CO;scripted;No;tablet;Yes
+10.1007/978-3-030-22341-0_50;USA;Nao;Ch;2019;Tu;Math;1;CO;scriped;Yes;tablet;Yes
+10.1109/access.2019.2921257;Spain;Pepper;Ad;2019;Tu;physical exercise;1;CO+FU;;;;No
+10.1007/s12369-018-0474-7;;;;2019;;;;;;;;No
+;;;;2019;;;;;;;;No
+10.1007/s11370-018-0266-9;;;;2019;;;;;;;;No
+10.1145/3300188;Portugal;Nao torso;Ch;2019;Tu;sustainable engery;2;CO;autonomous;No;tablet;Yes
+10.1609/aaai.v33i01.3301687;USA;Tega;Ch;2019;Tu;vocabulary;1;CO;autonomous;No;tablet;Yes
+10.1145/3366422;Germany;Nao;Ch;2019;Tu;L2;1;CO;autonomous;Yes;tablet;Yes
+10.1609/aaai.v33i01.33018050;USA;Nao;Ch;2019;Tu;Math;1;CO;autonomous;No;tablet;Yes
+10.1007/978-3-319-78452-6_11;Australia;Pepper;;2019;Tu;sign language;1;CO+FU;;;;No
+10.1007/s12369-019-00555-6;Netherlands;;Ch;2019;;balance;1;;WOZ;;tangible;No
+10.1007/s12369-019-00609-9;Turkey;Robovie;Ch;2019;Tu;sign language;1;CO+FU;autonomous;No;;Yes
+10.1007/978-3-030-35888-4_56;Netherlands;Nao;Ch;2019;Tu;Math;1;CO;autonomous;No;PC;Yes
+10.5555/3237383.3237946;USA;Jibo;Ch;2018;Tu;speech;1;CO;autonomous;No;tablet;Yes
+10.23919/softcom.2018.8555844;;;;2018;;;;;;;;No
+10.1177/0162643418778506;USA;Nao;Ad;2018;Pe;literacy;1;CO;scripted;No;screen;Yes
+10.1109/colcomcon.2019.8809113;Ecuador;stuffed toy robot;Ch/Te;2018;TA;;1;;WOZ;No;tablet;Yes
+10.1145/3284432.3284433;UK;Nao;Ch;2018;Tu;L2;1;CO;WOZ;No;tablet;Yes
+10.1109/devlrn.2018.8761028;Turkey;;Ad;2018;Te;L2;1;CO;WOZ;No;;Yes
+10.1007/978-3-030-06134-0_42;;;;2018;;L2;;;;;;No
+10.1145/3171221.3171274;Portugal;Nao;Ch;2018;Pe;handwriting;1;CO;autonomous;No;tablet;Yes
+10.1109/wcica.2018.8630584;China;Einstein Hanson;Ch;2018;Te;Math;38;CO;;No;screen;Yes
+10.1007/s12369-017-0460-5;New Zealand;iRobiQ and Paro;Ch;2018;Pe?/Tu;;;;;;;No
+10.1145/3173386.3177086;;;;2018;;;;;;;;No
+10.1145/3173386.3177038;;;;2018;;;;;;;;No
+10.1007/978-3-319-93843-1_21;USA;Nao;Ch;2018;Pe;Math;1;CO;autonomous;No;tablet;Yes
+10.18653/v1/w18-5013;USA;Nao;Ad;2018;Pe;Math;1;CO;WOZ;No;tablet;Yes
+10.1126/scirobotics.aat5999;USA;Minnie;Ch;2018;Pe/Tu;Reading;1;CO;autonomous;No;tangible;Yes
+10.1145/3202185.3202732;USA;Tega;Ch;2018;Pe/Tu;storytelling;1;CO;autonomous;No;tablet;Yes
+10.3390/technologies6020049;USA;Nao;Ad;2018;Tu;memory;1;CO;autonomous;No;tangible;Yes
+10.1007/s12626-018-0021-x;Japan;Pepper +Socibot;;2018;;;;;;;;No
+10.1145/3171221.3171277;Netherlands;Nao;Ch;2018;Tu;L2;1;CO;autonomous;No;tablet;Yes
+10.23919/softcom.2018.8555764;Greece;Nao;Ch;2018;TA;Math;19;CO;WOZ;No;tangible;Yes
+10.1145/3173574.3174127;USA;Maki;Ch;2018;Pe;sign language;1;CO;WOZ;No;screen;Yes
+10.1145/3173386.3176986;;;;2018;;;;;;;;No
+10.1109/isecon.2018.8340504;Japan;Pepper;Ad;2018;Tool;programming;4;FU;;No;PC;Yes
+10.1145/3171221.3171250;USA;Nao;Ch;2018;Tu;Math;1;CO;scripted;No;tablet ;Yes
+10.1109/roman.2018.8525832;Sweden;Pepper;Ad;2018;Tu;problem solving;1;CO;scripted;No;tablet ;Yes
+10.1109/roman.2018.8525799;Netherlands;Nao;Ch;2018;Pe/Tu;memmory;1;CO;scripted;No;tangible;Yes
+10.1145/3173386.3177059;;;;2018;;;;;;;;No
+10.1007/s12369-017-0458-z;UK;Nao torso;Ch;2018;Tu;geography;1;CO;autonomous;No;tablet;Yes
+10.1145/3283453;USA;Keepon;Ch;2018;Tu;language;1;CO;WOZ+scripted;No;;Yes
+10.1016/j.chb.2017.12.030;Sweden;Nao torso;Ch;2018;Tu;geography;2;CO+D;WOZ+scripted;No;tablet;Yes
+10.1142/s0219843618500251;UK;Nao torso;Ch;2018;Tu;geography;1;CO;autonomous;No;tablet;Yes
+10.1145/3202185.3202743;Switzerland;Nao;Ch;2018;Pe/Tu;reading;1;CO+D;scripted;No;buttons;Yes
+10.5898/jhri.5.1.coninx;Italy;Nao;Ch;2016;Tu;health;1;CO;WOZ+scripted;No;screen+tablet;Yes
+10.2307/jeductechsoci.19.1.337;Taiwan;Bioloid;Ch;2016;TA;L2;25,27;CO;scripted;No;screen;Yes
+10.1109/roman.2016.7745213;Portugal;Nao;Ch;2016;Tu;sustainable engery;2;CO;autonomous;No;tablet;Yes
+10.5555/2936924.2937061;UK;EMYS;Ch;2016;Tu;treasure hunt;2;CO;scripted;No;tablet;Yes
+10.5555/3016387.3016461;USA;Tega;Ch;2016;Tu;language;1;CO;autonomous;No;tablet;Yes
+10.1109/cec.2016.7743956;Japan;ifbot;Ad;2016;Tu;creativity+communication;1;CO;WOZ;No;tangible;Yes
+10.1016/j.chb.2016.06.005;USA;MantaroBot Classic;Ad;2016;Te;;;;WOZ;No;;Yes
+10.1109/roman.2016.7745170;Portugal;Nao torso;Ch;2016;Pe;handwriting;2;CO;WOZ;No;tablet;Yes
+10.1109/hri.2016.7451752;Portugal;Nao torso;Ch;2016;Tu;sustainable engery;2;CO;WOZ+autonomous;No;tablet;Yes
+10.1075/is.17.3.01pap;UK;Nao torso;Ad;2016;Tu (collaborative tutor);memory;1;CO;autonomous;No;tablet;Yes
+10.1109/hri.2016.7451859;;;;2016;;;;;;;;No
+10.1145/2971485.2971536;Sweden;Nao T14 torso;Ch;2016;Tu;geography;1;CO;scripted;No;tablet;Yes
+10.1007/978-3-319-47437-3_85;Germany;Nao;Ad;2016;Tu;physical exercise;1;CO+FU;WOZ;No;;Yes
+10.1109/humanoids.2016.7803321;Germany;Nao;Ad;2016;Tu;physical exercise;1;CO+FU;scripted;No;;Yes
+10.1109/roman.2016.7745226;USA;Nao;Ad;2016;Tu;general knowldege;1;CO;autonomous;No;tablet;Yes
+10.3389/fncom.2016.00077;Spain;Nao;Ch;2016;Tu;programmic;1;CO;;No;PC;Yes
+10.1109/hri.2016.7451822;;Nao;Ad;2016;;;;;;;;No
+10.1109/hri.2016.7451760;USA;Quinn (LEGO);Ad;2016;Tu;math;1;CO;autonomous;No;;Yes
+10.1109/mra.2016.2515018;Israel;Robothespian;Ch;2016;Te;STEM;24;CO;WOZ;No;tablet;Yes
+10.1109/hri.2016.7451759;USA;Nao;Ch;2016;Tu;Math;1;CO;autonomous;No;tablet;Yes
+10.1109/hri.2016.7451747;Switzerland;Nao;Ch;2016;Pe;handwriting;1;CO;autonomous;No;tablet;Yes
+10.1109/HRI.2016.7451757;UK;Nao;Ch;2016;Tu;L2;1;CO;WOZ+scripted;Yes;tablet;Yes
+10.1145/2974804.2974829;Australia;Nao;Ad;2016;Tu;L2;1;CO;scripted;No;;No
+10.1109/hri.2016.7451758;Switzerland;Nao;Ch;2016;Pe;handwriting;1;CO;autonomous;Yes;tablet;Yes
+10.1109/mra.2016.2546700;Switzerland;Nao;Ch;2016;Pe;handwriting;1;CO;autonomous;Yes;tablet;Yes
+10.1109/roman.2016.7745169;Switzerland;Nao;Ch;2016;Pe;handwriting;1;CO;autonomous;No;tablet;Yes
+10.1007/978-3-319-42417-0_32;;Zeno;Ch;2016;Tu;balance;;;;;;No
+10.5555/2887007.2887193;USA;DragonBot;Ch;2015;Pe;language;1;CO;autonomous;No;tablet;Yes
+10.1145/2696454.2696457;UK;Nao;Ch;2015;Te;math;1;CO;scripted;No;tablet;Yes
+10.1145/2696454.2696481;USA;Keepon;Ch;2015;Tu;language;1 or 3;CO;scripted;No;tablet;Yes
+10.1145/2696454.2696466;USA;Keepon;Ch;2015;Tu;language;1 or 3;CO;scripted;No;;Yes
+;;;;2015;;;;;;;;No
+10.1007/978-3-319-25554-5_70;Netherlands;Nao ;Ch;2015;Pe & Tu;problem solving;2;CO;WOZ;No;tangible;Yes
+10.1145/2701973.2701994;USA;Nao;Ch;2015;TA;;;;;;;No
+10.1007/s12369-015-0303-1;Japan;Robotive;Ch;2015;Pe;science;;CO;WOZ+scripted;No;;Yes
+10.1109/roman.2015.7333651;USA;Meka;Ad;2015;Tu;vocational skills;1;CO+FU;autonomous;No;tangible+tablet;Yes
+10.1145/2818346.2820735;USA;Keepon;Ch;2015;Pe/Tu;literacy;3;CO;autonomous;No;tablet;Yes
+10.1007/s12369-015-0311-1;Turkey;Nao/ R3;Ad/Ch;2015;Pe/Tu;sign language;1;CO+FU;scripted;No;;Yes
+10.1007/s12369-015-0307-x;Turkey;R3;Ad/Ch;2015;Pe/Tu;sign language;1;CO+FU;scripted;No;;Yes
+10.1007/978-3-319-25554-5_33;UK;Nao;Ch;2015;Te;math;1;CO;autonomous;No;tablet;Yes
+10.1007/s12369-014-0277-4;UK;Nao;Ch;2015;Te;problem solving;1;CO+FU;autonomous;No;tablet;Yes
+10.1145/2696454.2696469;USA;DragonBot;Ch;2015;Tu;literacy;1;CO;autonomous;No;tablet;Yes
+10.1109/roman.2015.7333620;Singapore;Nao;Ch;2015;Tu;language;1;CO;;No;;Yes
+10.1145/2701973.2702091;Switzerland;Nao;Ch;2015;Pe;;;;;;;No
+10.1145/2676723.2677248;USA;LEGO;Ad/Ch;2015;;robotics;3;CO;;No;PC;Yes
+10.1109/devlrn.2015.7346164;USA;Nao;Ch;2015;Tu;math;1;CO+Dietic;autonomous;No;tablet;Yes
+10.1007/978-3-319-22979-9_39;Spain;Nao;Ad;2015;Te/Pe;History;28;CO;Scripted;Yes;-;Yes
+10.1007/978-3-319-25554-5_3;Portugal;Nao;Ch;2015;Tu;sustainability;2;CO+Dietic;WOZ;;tablet;Yes
+10.1007/s12369-015-0286-y;Iran;Nao;Ch;2015;TA;L2;15;CO;Scripted;No;-;Yes
+10.2478/s13230-012-0017-0;USA;Bandit;Ad;2011;Te?;motor learning;1;CO;scripted;No;tangible;Yes
+10.1310/tsr1806-685;USA;Bandit;Ad;2011;Te?;motor learning;1;CO;scripted;No;tangible;Yes
+10.1109/fuzzy.2011.6007430;Same experiment as row 204;;;2011;;;;;;;;No
+10.1007/978-3-642-25504-5_15;South Korea;Engkey;CH;2011;Te;L2;8;;;;;No
+10.1145/1957656.1957778;South Korea;KTX-PC ;Ad;2011;Tu;Physical Education;1;Motion / Gestures;WOZ;No;;Yes
+10.1109/arso.2011.6301971;South Korea;ROBOSEM;Ch;2011;Ta;L2;34;Co;WOZ;No;tangible+screen;Yes
+10.1007/978-3-642-25504-5_14;South Korea;Nao;Ad;2011;Te;History;NA;Co;Scripted;No;;Yes
+10.1109/robio.2011.6181630;Turkey - same as the one below;Nao;Ch;2011;;Turkish Sign Language;;;;;;No
+10.1109/humanoids.2011.6100846;Turkey;Nao;Ch;2011;Pe/Tu;Turkish Sign Language;1;Co;Scripted;No;cards;Yes
+10.1145/1957656.1957763;Japan;Nao;Ch;2011;Pe;;;;;;;No
+10.5772/10667;Japan;SAYA;Ch;2011;Te;"Science: ""Principle of leverage""";13, 8, 9, 8;Co;WOZ;No;tangible+creen;Yes
+10.1007/978-3-642-25504-5_16;Netherlands;Nao;Ch;2011;Tu;Arithmetic;1;Co;WOZ;No;screen;Yes
+10.1017/s0958344010000273;South Korea;Mero, Engkey;Ch;2010;Te;L2;2;Co;Scripted;No;PC;Yes
+10.1145/1753326.1753567;Netherlands;iCat;Ch;2010;Tu;L2;1;Co;Scripted;Yes;cards;Yes
+10.1109/slt.2010.5700837;South Korea;Mero, Engkey;Ch;2010;Te;L2;2;Co;Scripted;No;PC;Yes
+10.1007/s10648-010-9123-x;Germany;;;2010;;;;;;;;No
+10.1007/978-3-642-17248-9_24;Japan;HOAP-3;Ch;2010;Tu;Physical Education;1;Motion / Gestures;WOZ + Scripted;No;;Yes
+10.1109/icalt.2006.1652373;Taiwan;Robosapien;Ch;2004-2009;Te;L2;33;Co;Scripted;No;;Yes
+10.1109/roman.2008.4600664;South Korea;iRobiQ;Ch;2004-2009;Te;L2;1;Co;Scripted;No;book;Yes
+10.1007/978-3-642-03986-7_24;Japan;SAYA (and MOBiMacs);Ch;2004-2009;Te;;1;CO;;Yes;cards;Yes
+10.3745/jips.2008.4.4.159;South Korea;IROBI;Ch;2004-2009;Te;L2;1;Co;Scripted;No;;Yes
+10.1080/07370024.2004.9667340;Japan;Robotive;Ch;2004-2009;Pe/Tu;L2;variable;CO;autonomous;No;No;Yes
