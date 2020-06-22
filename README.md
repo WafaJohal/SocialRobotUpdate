@@ -1,11 +1,10 @@
 # Dataset and Analysis for Systematic Review of Social Robots for Education
 
-![Field of Social Robotics for Education](./doc/socedufield.png)
-
-
-
 Code accompaninig Current Robotics Report from the Topical Collection on Service and Interactive Robotics. 
 Paper link: https://link.springer.com/article/10.1007/s43154-020-00008-3 
+
+
+![Field of Social Robotics for Education](./doc/socedufield.png)
 
 --- 
 
@@ -25,8 +24,10 @@ You will need to install jupyter-lab or to upload ```Main.ipynb``` on google col
 
 ### Data
 
-The dataset is based on the dataset shared by Belpaeme et al. 2018 (here, [Data Belpame et al. 2018](https://tinyurl.com/ybuyz5vn)) as mentioned on their paper (see references below). The dataset was augmented by performing similarly a searc for papers from 2017 till March 2020. The current dataset includes 160 papers (Belpame2018 contained 101 papers).
+The dataset is based on the dataset shared by Belpaeme et al. 2018 (here, [Data Belpame et al. 2018](https://tinyurl.com/ybuyz5vn)) as mentioned on their paper (see references below). The dataset was augmented by performing similarly a search for papers from 2017 till March 2020. The current dataset includes 160 papers (Belpame2018 contained 101 papers).
 
+![Zotero Collection](https://upload.wikimedia.org/wikipedia/commons/9/95/Zotero_icon.png)
+The dataset is also stored as an open Zotero collection that is easy to search and to download as bibtex: [SocialRobotEdu Collection](https://www.zotero.org/groups/2419050/hri-unsw/collections/X6PKYLT6). The Zotero collection also contains some related review and some references that were excluded from the systematic analysis.
 
 ### Running the notebook for analysis
 
