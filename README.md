@@ -12,20 +12,28 @@ Paper link: https://link.springer.com/article/10.1007/s43154-020-00008-3
 ## Introduction
 
 Based on Belpaeme et al. 2018, we propose an updated and ovel analysis of the litterature of social robots for leanring. 
-Thie repo contains the code used to generate the figures for the paper "Research Trends in Social Robots for Learning" as well as the annotated dataset used for the analysis. 
+This repo contains the code used to generate the figures for the paper "Research Trends in Social Robots for Learning" as well as the annotated dataset used for the analysis. 
 
 
 ## Usage
 
+The main notebook to reproduce the figures of the paper is ```Main.ipynb```. New data can be asserted in the social_robot4learning.xlsx file in order to generate the new plots.
+
 ### Prereqs
 
+You will need to install jupyter-lab or to upload ```Main.ipynb``` on google collab  as well as the dataset.
+
 ### Data
+
+The dataset is based on the dataset shared by Belpaeme et al. 2018 (here, [Data Belpame et al. 2018](https://tinyurl.com/ybuyz5vn)) as mentioned on their paper (see references below). The dataset was augmented by performing similarly a searc for papers from 2017 till March 2020. The current dataset includes 160 papers (Belpame2018 contained 101 papers).
+
 
 ### Running the notebook for analysis
 
 1. To run jupyter without poetry::
-
+	```
 	jupyter-lab
+	```
 
 
 2. To run jupyter with poetry::
