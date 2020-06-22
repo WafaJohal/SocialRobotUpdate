@@ -26,8 +26,9 @@ You will need to install jupyter-lab or to upload ```Main.ipynb``` on google col
 
 The dataset is based on the dataset shared by Belpaeme et al. 2018 (here, [Data Belpame et al. 2018](https://tinyurl.com/ybuyz5vn)) as mentioned on their paper (see references below). The dataset was augmented by performing similarly a search for papers from 2017 till March 2020. The current dataset includes 160 papers (Belpame2018 contained 101 papers).
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Zotero_icon.png" width="200" height="200" >
-The dataset is also stored as an open Zotero collection that is easy to search and to download as bibtex: [SocialRobotEdu Collection](https://www.zotero.org/groups/2419050/hri-unsw/collections/X6PKYLT6). The Zotero collection also contains some related review and some references that were excluded from the systematic analysis.
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Zotero_icon.png" width="60" height="60" >
+The dataset is also stored as an open Zotero collection that is easy to search and to download as bibtex: https://www.zotero.org/groups/2419050/hri-unsw/collections/X6PKYLT6. 
+The Zotero collection also contains some related review and some references that were excluded from the systematic analysis.
 
 ### Running the notebook for analysis
 
