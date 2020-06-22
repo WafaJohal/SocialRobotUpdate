@@ -1,5 +1,6 @@
 Social Robot Update
 ===========================
+
 ![Field of Social Robotics for Education](doc/socedufield.svg)
 <img src="doc/socedufield.svg">
 
