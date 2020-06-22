@@ -39,9 +39,9 @@ The Zotero collection also contains some related review and some references that
 
 
 2. To run jupyter with poetry::
-
+	```
 	poetry run jupyter-lab
-
+	```
 Enjoy!
 
 ## References
