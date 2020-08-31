@@ -14,8 +14,8 @@ assignees: ''
 - [ ] Make sure that any paper you add meet the inclusion
 criteria. 
 
-**Enter the DOI **
-
+**Enter the DOI**
+Paste your DOI here: 
 
 **Publishing Venue Category** 
 Pick one (the most representative)
