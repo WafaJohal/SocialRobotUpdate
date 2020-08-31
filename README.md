@@ -30,6 +30,11 @@ The dataset is based on the dataset shared by Belpaeme et al. 2018 (here, [Data 
 The dataset is also stored as an open Zotero collection that is easy to search and to download as bibtex: https://www.zotero.org/groups/2419050/hri-unsw/collections/X6PKYLT6. 
 The Zotero collection also contains some related review and some references that were excluded from the systematic analysis.
 
+
+### Adding your data or report an issue
+
+Please refer to the ISSUE_GUIDELINE.md
+
 ### Running the notebook for analysis
 
 1. To run jupyter without poetry::
