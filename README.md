@@ -33,7 +33,9 @@ The Zotero collection also contains some related review and some references that
 
 ### Adding your data or report an issue
 
-Please refer to the ISSUE_GUIDELINE.md
+Use the Issues form here: 
+https://github.com/WafaJohal/SocialRobotUpdate/blob/master/.github/ISSUE_TEMPLATE/add-paper.md
+
 
 ### Running the notebook for analysis
 
