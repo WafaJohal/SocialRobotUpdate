@@ -1,9 +1,9 @@
 ---
 name: Add paper
 about: add a new paper in the database
-title: 'title of the paper'
-labels: '[ADD]'
-assignees: ''
+title: title of the paper
+labels: enhancement
+assignees: WafaJohal
 
 ---
 
@@ -11,11 +11,10 @@ assignees: ''
 - [x] Addition
 
 **Please check the box below to indicate that you have read the inclusion criteria.**
-- [ ] Make sure that any paper you add meet the inclusion
-criteria. 
+- [ ] Make sure that any paper you add meet the inclusion criteria. (see the papers [Johal 2020](https://dx.doi.org/10.1007/s43154-020-00008-3) or [Belpaeme et al. 2018](https://robotics.sciencemag.org/content/3/21/eaat5954/tab-article-info)) 
 
 **Enter the DOI**
-Paste your DOI here: 
+Paste your DOI here: [ ]
 
 **Publishing Venue Category** 
 Pick one (the most representative)
@@ -60,3 +59,4 @@ Pick one (the most representative)
 - [ ] Communicative gestures
 - [ ] Deictic
 - [ ] Object Manipulation
+- [ ] Other
