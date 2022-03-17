@@ -13,9 +13,8 @@ wordcloud_container = st.container()
 dataset_container =  st.container()
 
 with header_container:
-    st.title("HRI Questionnaires")
-    st.text("""This webpage is meant to navigate and search for previously used questionnaire in HRI.
-    It is based in data from https://zenodo.org/record/5789410#.Ydc98WjMKUk%20%5B1%5D.
+    st.title("Social Robots in Education")
+    st.text("""This webpage shows teh analysis for Cultural Social robots in Education
     """)
 
 st.write()
