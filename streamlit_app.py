@@ -5,6 +5,8 @@ from st_aggrid.shared import GridUpdateMode
 import pycountry
 import altair as alt
 import altair_catplot
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 header_container = st.container()
 dataset_container =  st.container()
@@ -83,14 +85,21 @@ with dataset_container:
 with analysis_container:
     st.header(" Individualism and Nb of Participants")
 
-    c = altair_catplot.catplot(cultural_data,
-                       transform ='jitterbox',
-                       mark ='square',
-                       encoding = dict(x = alt.X('students_nb:N', title = None),
-                                     y = alt.Y('idv:Q', scale = alt.Scale(zero = False)),
-                                     color = alt.Color('students_nb:N', legend = None))
-                      )
-    st.altair_chart(c)
+    fig = sns.catplot(x='students_nb',
+            y='idv', 
+            data=cultural_data,
+            height=4,
+            aspect=1.5,
+            kind='boxen')
+    st.pyplot(fig)
+    #c = altair_catplot.catplot(cultural_data,
+    #                   transform ='jitterbox',
+    #                   mark ='square',
+    #                   encoding = dict(x = alt.X('students_nb:N', title = None),
+    #                                 y = alt.Y('idv:Q', scale = alt.Scale(zero = False)),
+    #                                 color = alt.Color('students_nb:N', legend = None))
+    #                  )
+    #st.altair_chart(c)
 
 
     st.header("Interactive analysis")
@@ -100,13 +109,22 @@ with analysis_container:
     cultural_dim = st.selectbox("Select a Cultural Dimension", list_of_cultural_dim)
     soroed_dim = st.selectbox("Select a Social Robot iin Education Dimension", list_of_soroed_dim)
 
-    c = altair_catplot.catplot(cultural_data,
-                       transform ='jitterbox',
-                       mark ='square',
-                       encoding = dict(x = alt.X(soroed_dim+':N', title = None),
-                                     y = alt.Y(cultural_dim+':Q', scale = alt.Scale(zero = False)),
-                                     color = alt.Color(soroed_dim+':N', legend = None))
-                      )
-    st.altair_chart(c, use_container_width=True)
+
+    fig = sns.catplot(x=soroed_dim,
+            y=cultural_dim, 
+            data=cultural_data,
+            height=4,
+            aspect=1.5,
+            kind='boxen')
+    #c = altair_catplot.catplot(cultural_data,
+    #                   transform ='jitterbox',
+    #                   mark ='square',
+    #                   encoding = dict(x = alt.X(soroed_dim+':N', title = None),
+    #                                 y = alt.Y(cultural_dim+':Q', scale = alt.Scale(zero = False)),
+    #                                 color = alt.Color(soroed_dim+':N', legend = None))
+    #                  )
+    #st.altair_chart(c, use_container_width=True)
+    st.pyplot(fig)
+
 
 st.write()

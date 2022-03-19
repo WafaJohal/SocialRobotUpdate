@@ -7,3 +7,4 @@ nltk
 pycountry
 altair-catplot
 xlrd
+seaborn
