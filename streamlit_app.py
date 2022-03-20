@@ -13,8 +13,6 @@ dataset_container =  st.container()
 
 analysis_container = st.container()
 
-
-
 data_anno = pd.read_excel('CrossRef_DataFrame_wAnno_socedu.xlsx', sheet_name = 'compressed')
 data_6dim = pd.read_excel('6-dimensions-for-website-2015-08-16.xls',sheet_name='sheet1')
 
@@ -25,7 +23,6 @@ for country in pycountry.countries:
 
 data_anno['iso_a3'] = [countries.get(country, 'Unknown code') for country in data_anno['Country']]
 
-#st.write(data_anno)
 data_anno.loc[data_anno['Country']== 'Republic of Korea','iso_a3'] = 'KOR'
 data_anno.loc[data_anno['Country']== 'South Korea','iso_a3'] = 'KOR'
 data_anno.loc[data_anno['Country']== 'USA','iso_a3'] = 'USA'
@@ -92,15 +89,6 @@ with analysis_container:
             aspect=1.5,
             kind='boxen')
     st.pyplot(fig)
-    #c = altair_catplot.catplot(cultural_data,
-    #                   transform ='jitterbox',
-    #                   mark ='square',
-    #                   encoding = dict(x = alt.X('students_nb:N', title = None),
-    #                                 y = alt.Y('idv:Q', scale = alt.Scale(zero = False)),
-    #                                 color = alt.Color('students_nb:N', legend = None))
-    #                  )
-    #st.altair_chart(c)
-
 
     st.header("Interactive analysis")
 
@@ -116,14 +104,7 @@ with analysis_container:
             height=4,
             aspect=1.5,
             kind='boxen')
-    #c = altair_catplot.catplot(cultural_data,
-    #                   transform ='jitterbox',
-    #                   mark ='square',
-    #                   encoding = dict(x = alt.X(soroed_dim+':N', title = None),
-    #                                 y = alt.Y(cultural_dim+':Q', scale = alt.Scale(zero = False)),
-    #                                 color = alt.Color(soroed_dim+':N', legend = None))
-    #                  )
-    #st.altair_chart(c, use_container_width=True)
+ 
     st.pyplot(fig)
 
 
