@@ -1,8 +1,6 @@
 ###### Requirements without Version Specifiers ######
 streamlit-aggrid
 openpyxl
-streamlit-wordcloud
-wordcloud
 nltk
 pycountry
 altair-catplot
