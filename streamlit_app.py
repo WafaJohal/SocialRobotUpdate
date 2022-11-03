@@ -97,37 +97,37 @@ with dataset_container:
         st.write("You selected:")
         st.json(selection["selected_rows"])
     
-with wordcloud_container:
-    st.header("Wordcloud of keywords used in the dataset")
-    text = " ".join(name for name in data_anno_all.abstractNote)
-    # stop words list
+# """ with wordcloud_container:
+#     st.header("Wordcloud of keywords used in the dataset")
+#     text = " ".join(name for name in data_anno_all.abstractNote)
+#     # stop words list
     
-    stop = nltk.corpus.stopwords.words('english')
-    list_of_stop_words = ["paper","robot","robots","study","social","human","interaction",
-    "results","participants","people","using","human-robot","robots.","used","data","present","approach","could","based","two","one","learning","children"]
+#     stop = nltk.corpus.stopwords.words('english')
+#     list_of_stop_words = ["paper","robot","robots","study","social","human","interaction",
+#     "results","participants","people","using","human-robot","robots.","used","data","present","approach","could","based","two","one","learning","children"]
 
-    list_of_stop_words = st.multiselect("List of words not included in the wordcloud", list_of_stop_words, list_of_stop_words)
+#     list_of_stop_words = st.multiselect("List of words not included in the wordcloud", list_of_stop_words, list_of_stop_words)
 
-    stop.extend(list_of_stop_words)
+#     stop.extend(list_of_stop_words)
 
-    data_anno_all['abstractNote'] = \
-    data_anno_all['abstractNote'].map(lambda x: re.sub('[,\.!?]', '', x))# Convert the titles to lowercase
-    data_anno_all['abstractNote'] = \
-    data_anno_all['abstractNote'].map(lambda x: x.lower()) 
+#     data_anno_all['abstractNote'] = \
+#     data_anno_all['abstractNote'].map(lambda x: re.sub('[,\.!?]', '', x))# Convert the titles to lowercase
+#     data_anno_all['abstractNote'] = \
+#     data_anno_all['abstractNote'].map(lambda x: x.lower()) 
    
 
-    # Create and generate a word cloud imagestr.lower().str.strip():
-    data_anno_all.cleanAbs = data_anno_all.abstractNote.str.lower().str.strip().str.split()
-    data_anno_all['Clean'] = data_anno_all.cleanAbs.apply(lambda x: [w.strip() for w in x if w.strip() not in stop])
-    data_anno_all['Clean'] = pd.DataFrame( data_anno_all['Clean'])
+#     # Create and generate a word cloud imagestr.lower().str.strip():
+#     data_anno_all.cleanAbs = data_anno_all.abstractNote.str.lower().str.strip().str.split()
+#     data_anno_all['Clean'] = data_anno_all.cleanAbs.apply(lambda x: [w.strip() for w in x if w.strip() not in stop])
+#     data_anno_all['Clean'] = pd.DataFrame( data_anno_all['Clean'])
 
     
-    words = data_anno_all.Clean.tolist()
-    flat_list = [item for sublist in words for item in sublist]
-    wdic = [dict(text = i, value = flat_list.count(i)) for i in set(flat_list)]
+#     words = data_anno_all.Clean.tolist()
+#     flat_list = [item for sublist in words for item in sublist]
+#     wdic = [dict(text = i, value = flat_list.count(i)) for i in set(flat_list)]
     
 
-    wc = st_wordcloud.visualize(words=wdic,tooltip_data_fields={'text': 'text','value': 'value'} , max_words=100)
+#     wc = st_wordcloud.visualize(words=wdic,tooltip_data_fields={'text': 'text','value': 'value'} , max_words=100) """
 
 
 with analysis_container:
