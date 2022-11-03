@@ -185,8 +185,8 @@ with analysis_container:
             y=cultural_dim, 
             data=cultural_data,
             height=4,
-            aspect=1.5,
-            kind='boxen')
+            aspect=1.5,palette="Set3",
+            kind='violin')
  
     st.pyplot(fig)
 
